@@ -37,7 +37,7 @@
   width: 32px;
   background-size: 32px 32px;
   background-repeat: no-repeat;
-  background-image: url("../images/Twitter_bird_logo_2012.svg.png");
+  background-image: url("../assets/images/Twitter_bird_logo_2012.svg.png");
   margin-right: 4px;
 }
 .reveal ul .github:before {
@@ -47,7 +47,7 @@
   width: 32px;
   background-size: 32px 32px;
   background-repeat: no-repeat;
-  background-image: url("../images/GitHub-Mark/PNG/GitHub-Mark-32px.png");
+  background-image: url("../assets/images/GitHub-Mark/PNG/GitHub-Mark-32px.png");
   margin-right: 4px;
 }
 .reveal .slides > section.full {
